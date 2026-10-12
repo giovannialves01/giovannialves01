@@ -18,7 +18,7 @@
 
 ## Sobre mim
 
-Atuo em **cibersegurança desde 2021**, com foco em **Resposta a Incidentes e Forense Digital (DFIR)** e **Threat Hunting**.
+Atuo em **cibersegurança**, com foco em **Resposta a Incidentes e Forense Digital (DFIR)** e **Threat Hunting**.
 
 Minha experiência envolve investigar atividades suspeitas em endpoints, identidades, redes e ambientes em nuvem; reconstruir linhas do tempo de ataques; avaliar o impacto de incidentes; e transformar descobertas técnicas em recomendações de **contenção, remediação e detecção**.
 
